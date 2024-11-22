@@ -1,18 +1,27 @@
-######### Réseau Social de l'ENSIT (RSE)######### 
+# Réseau Social de l'ENSIT (RSE)
 
-Ce projet est un réseau social développé spécifiquement pour les membres de l'École Nationale Supérieure d'Ingénieurs de Tunis (ENSIT). Il permet aux étudiants, aux clubs et aux délégués de se connecter, de partager des contenus, d'avoir des informations centralisés et de collaborer ensemble.
+Ce projet est un réseau social développé spécifiquement pour les membres de l'École Nationale Supérieure d'Ingénieurs de Tunis (ENSIT). Il permet aux étudiants, aux clubs et aux délégués de se connecter, de partager des contenus, d'avoir des informations centralisées et de collaborer ensemble.
 
-#########  Prérequis ######### 
+---
 
-Avant de lancer l'application, assurez-vous d'avoir installé React, Vite, Springboot , Java 17 et MySQL sur votre machine.
+## Prérequis
 
-######### Installation ######### 
+Avant de lancer l'application, assurez-vous d'avoir les éléments suivants installés sur votre machine :
+- **React** (via Vite)
+- **Spring Boot**
+- **Java 17**
+- **MySQL**
 
-1. Partie frontend :
-  ```bash
-     cd frontend
-     npm install
-     npm run dev
+---
+
+## Installation
+
+### 1. Partie Frontend
+1. Accédez au dossier du frontend :
+   ```bash
+    cd frontend
+    npm install
+    npm run dev
 
 2.Partie backend:
 -Assurez-vous que MySQL server est en cours d'exécution sur votre machine.
@@ -45,7 +54,7 @@ Mot de passe: azerty123
 ## Some Interfaces
 
 ### Signup Screen
-![Signup Screen](socialMediaApp/interfaces/signup.png)
+![Signup Screen](interfaces/signup.png)
 ### Signin Screen
 ![Signin Screen](interfaces/signin.png)
 ### Profile Screen
