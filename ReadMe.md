@@ -47,7 +47,7 @@ Mot de passe: azerty123
 ## UML 
 
 ### Diagramme de classe 
-![DC Screen](interfaces/DC.png)
+![DC Screen](./interfaces/DC.png)
 ### Diagramme de cas d'utilisation Screen
 ![DCU Screen](interfaces/DCUf.png)
 
