@@ -30,13 +30,13 @@ Avant de lancer l'application, assurez-vous d'avoir les éléments suivants inst
 ######### Utilisateurs par défaut ######### 
 Utilisez les informations suivantes pour vous connecter en tant qu'utilisateur prédéfini :
 
-Étudiant:
+#Étudiant:
 Email: youssef.arouay@ensit.u-tunis.tn
 Mot de passe: azerty123
-Club:
+#Club:
 Email: geeks@ensit.u-tunis.tn
 Mot de passe: azerty123
-Délégué:
+#Délégué:
 Email: youssef.mabrouk@ensit.u-tunis.tn
 Mot de passe: azerty123
 
