@@ -4,14 +4,15 @@ Ce projet est un réseau social développé spécifiquement pour les membres de 
 
 #########  Prérequis ######### 
 
-Avant de lancer l'application, assurez-vous d'avoir installé React, Vite, Node.js , java 17 et MySQL sur votre machine.
+Avant de lancer l'application, assurez-vous d'avoir installé React, Vite, Springboot , Java 17 et MySQL sur votre machine.
 
 ######### Installation ######### 
 
 1. Partie frontend :
- >cd frontend
- >npm install
- >npm run dev
+  ```bash
+     cd frontend
+     npm install
+     npm run dev
 
 2.Partie backend:
 -Assurez-vous que MySQL server est en cours d'exécution sur votre machine.
